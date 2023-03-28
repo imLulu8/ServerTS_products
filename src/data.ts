@@ -1,0 +1,39 @@
+export type Product = {
+    id:number,
+    brand:string,
+    price:number
+}
+
+export const products = [
+{"id":1,"brand":"Lenovo","price":1199},
+{"id":2,"brand":"Apple","price":1200},
+{"id":3,"brand":"Microsoft","price":1299},
+{"id":4,"brand":"Apple","price":1200},
+{"id":5,"brand":"Apple","price":1800},
+{"id":6,"brand":"Microsoft","price":790},
+{"id":7,"brand":"Microsoft","price":980},
+{"id":8,"brand":"Lenovo","price":1199},
+{"id":9,"brand":"Samsung","price":1200},
+{"id":10,"brand":"Samsung","price":850},
+{"id":11,"brand":"Samsung","price":1200},
+{"id":12,"brand":"Apple","price":850},
+{"id":13,"brand":"Lenovo","price":850},
+{"id":14,"brand":"Lenovo","price":1000},
+{"id":15,"brand":"Lenovo","price":1199},
+{"id":16,"brand":"Microsoft","price":850},
+{"id":17,"brand":"Microsoft","price":2000},
+{"id":18,"brand":"Microsoft","price":1800},
+{"id":19,"brand":"Samsung","price":800},
+{"id":20,"brand":"Lenovo","price":1200},
+{"id":21,"brand":"Samsung","price":540},
+{"id":22,"brand":"Samsung","price":999},
+{"id":23,"brand":"Apple","price":3429},
+{"id":24,"brand":"Lenovo","price":999},
+{"id":25,"brand":"Lenovo","price":999},
+{"id":26,"brand":"Apple","price":1299},
+{"id":27,"brand":"Samsung","price":820},
+{"id":28,"brand":"Lenovo","price":730},
+{"id":29,"brand":"Microsoft","price":1000},
+{"id":30,"brand":"Apple","price":1000},
+{"id":31,"brand":"Lenovo","price":540}
+]
